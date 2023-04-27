@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJS、React Source Code**
 
-- 📝 I regularly write articles on [younglele.cn](younglele.cn)
+- 📝 I regularly write articles on [younglele.cn](https://younglele.cn)
 
 - 💬 Ask me about **FrontEnd、useful apps**
 
