@@ -11,6 +11,11 @@ A frontend developer fron China 🇨🇳
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [第1期 - 公园修狗](https://xlog.app/api/redirection?characterId=57214&noteId=44)
+- [第1期 - 公园修狗](https://weekly.xiaole.site/posts/park-puppy)
+- [Unsplash API Production 申请注意事项](https://xlog.app/api/redirection?characterId=57214&noteId=40)
+- [我制作了一个封面图制作工具](https://xlog.app/api/redirection?characterId=57214&noteId=39)
+- [使用 cloudflare 中转 api.openai.com](https://xlog.app/api/redirection?characterId=57214&noteId=30)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
