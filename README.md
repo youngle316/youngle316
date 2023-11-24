@@ -1,4 +1,5 @@
-<h1>Hi 👋, I'm xiaole</h1>
+<h3>Hi there 👋</h3>
+
 A frontend developer fron China 🇨🇳
 
 - 🔭 I’m currently working on [power-chatgpt](https://github.com/youngle316/power-chatgpt)
@@ -8,15 +9,6 @@ A frontend developer fron China 🇨🇳
 - 📝 Here is my [weekly](https://weekly.xiao.site) and [blog](https://xlog.xiaole.site)
 
 </p>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [第1期 - 公园修狗](https://xlog.app/api/redirection?characterId=57214&noteId=44)
-- [第1期 - 公园修狗](https://weekly.xiaole.site/posts/park-puppy)
-- [Unsplash API Production 申请注意事项](https://xlog.app/api/redirection?characterId=57214&noteId=40)
-- [我制作了一个封面图制作工具](https://xlog.app/api/redirection?characterId=57214&noteId=39)
-- [使用 cloudflare 中转 api.openai.com](https://xlog.app/api/redirection?characterId=57214&noteId=30)
-<!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
@@ -34,5 +26,14 @@ Windows                  3 hrs 20 mins       ██░░░░░░░░░�
 
  Last Updated on 24/11/2023 02:57:10 UTC
 <!--END_SECTION:waka-->
+
+**Lastest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+- [第1期 - 公园修狗](https://xlog.app/api/redirection?characterId=57214&noteId=44)
+- [第1期 - 公园修狗](https://weekly.xiaole.site/posts/park-puppy)
+- [Unsplash API Production 申请注意事项](https://xlog.app/api/redirection?characterId=57214&noteId=40)
+- [我制作了一个封面图制作工具](https://xlog.app/api/redirection?characterId=57214&noteId=39)
+- [使用 cloudflare 中转 api.openai.com](https://xlog.app/api/redirection?characterId=57214&noteId=30)
+<!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youngle316&show_icons=true&locale=en" alt="youngle316" /></p>
