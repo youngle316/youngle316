@@ -27,7 +27,7 @@ TypeScript               49 mins             █░░░░░░░░░░�
 
 **Lastest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [第2期 - 剧院音乐](https://weekly.xiaole.site/posts/theater-music)
+- [第2期 - 剧场音乐](https://weekly.xiaole.site/posts/theater-music)
 - [第1期 - 公园修狗](https://weekly.xiaole.site/posts/park-puppy)
 - [Unsplash API Production 申请注意事项](https://xlog.app/api/redirection?characterId=57214&noteId=40)
 - [我制作了一个封面图制作工具](https://xlog.app/api/redirection?characterId=57214&noteId=39)
