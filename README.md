@@ -29,9 +29,9 @@ CSS                      5 mins              ░░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [第3期 - 清晨月亮](https://weekly.xiaole.site/posts/morning-moon)
 - [第2期 - 剧场音乐](https://weekly.xiaole.site/posts/theater-music)
+- [第1期 - 公园修狗](https://xlog.app/api/redirection?characterId=57214&noteId=44)
 - [第1期 - 公园修狗](https://weekly.xiaole.site/posts/park-puppy)
 - [Unsplash API Production 申请注意事项](https://xlog.app/api/redirection?characterId=57214&noteId=40)
-- [我制作了一个封面图制作工具](https://xlog.app/api/redirection?characterId=57214&noteId=39)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youngle316&show_icons=true&locale=en" alt="youngle316" /></p>
