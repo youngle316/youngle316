@@ -36,6 +36,10 @@ Less                     4 mins              ░░░░░░░░░░░�
 
 🦄 **Lastest Weekly Posts**
 <!-- WEEKLY-POST-LIST:START -->
+- [第4期 - 冬日枫叶](https://weekly.xiaole.site/posts/winter-maple-leaf)
+- [第3期 - 清晨月亮](https://weekly.xiaole.site/posts/morning-moon)
+- [第2期 - 剧场音乐](https://weekly.xiaole.site/posts/theater-music)
+- [第1期 - 公园修狗](https://weekly.xiaole.site/posts/park-puppy)
 <!-- WEEKLY-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youngle316&show_icons=true&locale=en" alt="youngle316" /></p>
