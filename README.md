@@ -25,7 +25,7 @@ Less                     4 mins              ░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-**Lastest Blog Posts**
+📖 **Lastest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [第4期 - 冬日枫叶](https://weekly.xiaole.site/posts/winter-maple-leaf)
 - [第3期 - 清晨月亮](https://weekly.xiaole.site/posts/morning-moon)
@@ -33,5 +33,9 @@ Less                     4 mins              ░░░░░░░░░░░�
 - [第1期 - 公园修狗](https://weekly.xiaole.site/posts/park-puppy)
 - [Unsplash API Production 申请注意事项](https://xlog.app/api/redirection?characterId=57214&noteId=40)
 <!-- BLOG-POST-LIST:END -->
+
+🦄 **Lastest Weekly Posts**
+<!-- WEEKLY-POST-LIST:START -->
+<!-- WEEKLY-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youngle316&show_icons=true&locale=en" alt="youngle316" /></p>
