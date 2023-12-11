@@ -27,11 +27,11 @@ Less                     4 mins              ░░░░░░░░░░░�
 
 📖 **Lastest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [第4期 - 冬日枫叶](https://weekly.xiaole.site/posts/winter-maple-leaf)
-- [第3期 - 清晨月亮](https://weekly.xiaole.site/posts/morning-moon)
-- [第2期 - 剧场音乐](https://weekly.xiaole.site/posts/theater-music)
-- [第1期 - 公园修狗](https://weekly.xiaole.site/posts/park-puppy)
 - [Unsplash API Production 申请注意事项](https://xlog.app/api/redirection?characterId=57214&noteId=40)
+- [我制作了一个封面图制作工具](https://xlog.app/api/redirection?characterId=57214&noteId=39)
+- [使用 cloudflare 中转 api.openai.com](https://xlog.app/api/redirection?characterId=57214&noteId=30)
+- [Power-ChatGPT](https://xlog.app/api/redirection?characterId=57214&noteId=22)
+- [如何在 Next.js 项目中使用 supabase](https://xlog.app/api/redirection?characterId=57214&noteId=12)
 <!-- BLOG-POST-LIST:END -->
 
 🦄 **Lastest Weekly Posts**
