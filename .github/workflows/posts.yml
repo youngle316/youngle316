@@ -17,4 +17,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://weekly.xiaole.site/feed.xml,https://xlog.xiaole.site/feed"
+          feed_list: "https://xlog.xiaole.site/feed"
