@@ -1,6 +1,6 @@
 <h3>Hi there 👋</h3>
 
-A frontend developer fron China 🇨🇳
+A frontend developer from China 🇨🇳
 
 - 🔭 I’m currently working on [power-chatgpt](https://github.com/youngle316/power-chatgpt)
 
