@@ -30,7 +30,6 @@ Docker                   4 mins              ░░░░░░░░░░░�
 - [Unsplash API Production 申请注意事项](https://xlog.app/api/redirection?characterId=57214&noteId=40)
 - [我制作了一个封面图制作工具](https://xlog.app/api/redirection?characterId=57214&noteId=39)
 - [使用 cloudflare 中转 api.openai.com](https://xlog.app/api/redirection?characterId=57214&noteId=30)
-- [Power-ChatGPT](https://xlog.app/api/redirection?characterId=57214&noteId=22)
 - [如何在 Next.js 项目中使用 supabase](https://xlog.app/api/redirection?characterId=57214&noteId=12)
 <!-- BLOG-POST-LIST:END -->
 
