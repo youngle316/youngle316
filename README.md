@@ -35,6 +35,7 @@ Less                     7 mins              ░░░░░░░░░░░�
 
 🦄 **Lastest Weekly Posts**
 <!-- WEEKLY-POST-LIST:START -->
+- [第5期 - 美丽夜景](https://weekly.xiaole.site/posts/beautiful-night-view)
 - [第4期 - 冬日枫叶](https://weekly.xiaole.site/posts/winter-maple-leaf)
 - [第3期 - 清晨月亮](https://weekly.xiaole.site/posts/morning-moon)
 - [第2期 - 剧场音乐](https://weekly.xiaole.site/posts/theater-music)
