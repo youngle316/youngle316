@@ -27,10 +27,7 @@ Docker                   19 mins             █░░░░░░░░░░�
 
 📖 **Lastest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Unsplash API Production 申请注意事项](https://xlog.app/api/redirection?characterId=57214&noteId=40)
-- [我制作了一个封面图制作工具](https://xlog.app/api/redirection?characterId=57214&noteId=39)
-- [使用 cloudflare 中转 api.openai.com](https://xlog.app/api/redirection?characterId=57214&noteId=30)
-- [如何在 Next.js 项目中使用 supabase](https://xlog.app/api/redirection?characterId=57214&noteId=12)
+- [欢迎加入我的频道](https://xlog.app/api/redirection?characterId=60824&noteId=1)
 <!-- BLOG-POST-LIST:END -->
 
 🦄 **Lastest Weekly Posts**
