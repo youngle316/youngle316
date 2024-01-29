@@ -28,11 +28,11 @@ GitIgnore file           8 mins              ░░░░░░░░░░░�
 
 📖 **Lastest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [第11期 - 最后生还](https://xlog.app/api/redirection?characterId=60824&noteId=18)
-- [欢迎加入我的频道](https://xlog.app/api/redirection?characterId=60824&noteId=1)
-- [第10期 - 大雪纷飞](https://xlog.app/api/redirection?characterId=60824&noteId=12)
-- [第9期 - 天天开心](https://xlog.app/api/redirection?characterId=60824&noteId=11)
-- [第8期 - 霉霉最美](https://xlog.app/api/redirection?characterId=60824&noteId=10)
+- [欢迎加入我的频道](https://blog.xiaole.site/posts/welcome-join-my-channel)
+- [Unsplash API Production 申请注意事项](https://blog.xiaole.site/posts/unsplash-api-production-application-guidelines)
+- [我制作了一个封面图制作工具](https://blog.xiaole.site/posts/i-made-a-cover-image-creation-tool)
+- [使用 cloudflare 中转 api.openai.com](https://blog.xiaole.site/posts/use-cloudflare-as-a-proxy-for-api-openai-com)
+- [如何在 Next.js 项目中使用 supabase](https://blog.xiaole.site/posts/how-to-use-supabase-in-a-nextjs-project)
 <!-- BLOG-POST-LIST:END -->
 
 🦄 **Lastest Weekly Posts**
