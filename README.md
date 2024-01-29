@@ -36,11 +36,11 @@ GitIgnore file           8 mins              ░░░░░░░░░░░�
 
 🦄 **Lastest Weekly Posts**
 <!-- WEEKLY-POST-LIST:START -->
+- [第11期 - 最后生还](https://weekly.xiaole.site/posts/last-of-us)
 - [第10期 - 大雪纷飞](https://weekly.xiaole.site/posts/snow-fail)
 - [第9期 - 天天开心](https://weekly.xiaole.site/posts/happy-everyday)
 - [第8期 - 霉霉最美](https://weekly.xiaole.site/posts/taylor-is-beautiful)
 - [第7期 - 新年开心](https://weekly.xiaole.site/posts/happy-chinese-new-year)
-- [第6期 - 圣诞快乐](https://weekly.xiaole.site/posts/merry-christmas)
 <!-- WEEKLY-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youngle316&show_icons=true&locale=en" alt="youngle316" /></p>
