@@ -2,12 +2,13 @@
 
 A frontend developer from China 🇨🇳
 
-- 🔭 I’m currently working on [power-chatgpt](https://github.com/youngle316/power-chatgpt)
+- 🔭 I’m currently working on React and React Native
 
 - 📫 How to reach me: you may follow me on [xiaole.site](https://xiaole.site)
 
-- 📝 Here is my [weekly](https://weekly.xiao.site) and [blog](https://xlog.xiaole.site)
+- 📝 Here is my [weekly](https://weekly.xiao.site) and [blog](https://blog.xiaole.site)
 
+- 💬 Personal Telegram Channel: [https://t.me/xiaole_channel](https://t.me/xiaole_channel)
 </p>
 
 <!--START_SECTION:waka-->
