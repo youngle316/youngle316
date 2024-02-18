@@ -34,11 +34,11 @@ JavaScript               5 mins              ██░░░░░░░░░�
 
 🦄 **Lastest Weekly Posts**
 <!-- WEEKLY-POST-LIST:START -->
+- [第14期 - 繁忙春节](https://weekly.xiaole.site/posts/busy-spring-festival)
 - [第13期 - 狗狗新家](https://weekly.xiaole.site/posts/puppy-new-house)
 - [第12期 - 新的键盘](https://weekly.xiaole.site/posts/new-keyboard)
 - [第11期 - 最后生还](https://weekly.xiaole.site/posts/last-of-us)
 - [第10期 - 大雪纷飞](https://weekly.xiaole.site/posts/snow-fail)
-- [第9期 - 天天开心](https://weekly.xiaole.site/posts/happy-everyday)
 <!-- WEEKLY-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youngle316&show_icons=true&locale=en" alt="youngle316" /></p>
